@@ -20,7 +20,7 @@ Live Demo 👉 [View on GitHub Pages](https://xxbaxbie20.github.io/challenge-tra
 
 Here’s the Challenge Tracker in action:  
 
-![Challenge Tracker Screenshot](assets\screenshot.png)
+![Challenge Tracker Screenshot](https://github.com/XxBaxbie20/challenge-tracker/blob/main/assets/screenshot.png)
 
 *(Screenshot taken from the live app)*
 
