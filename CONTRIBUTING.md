@@ -33,11 +33,11 @@ Your ideas, fixes, and improvements are always welcome.
 
 5. **Commit changes**
    ```bash
-  - git commit -m "Add feature: my-new-feature"
+   git commit -m "Add feature: my-new-feature"
 
 6. **Push to your fork**
    ```bash
-  - git push origin feature/my-new-feature
+   git push origin feature/my-new-feature
 
 7. **Open a Pull Request**
 
